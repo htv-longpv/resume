@@ -5422,7 +5422,7 @@ a.credit {
     width: 100%;
     margin: auto;
     position: absolute;
-    top: 27%;
+    top: 20%;
     left: 0
 }
 
@@ -5519,7 +5519,7 @@ a.credit {
         height: 110px
     }
     .main-timeline .date {
-        top: 30%
+        top: 20%
     }
     .main-timeline .year {
         font-size: 24px
